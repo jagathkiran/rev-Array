@@ -4,4 +4,4 @@ This Repo is consisting of many and all Array Reversals
 
 ## Reversing integer Array 
 
-Reverse integer array ising stack - rev-int.c
+Reverse integer array using stack - rev-int.c
